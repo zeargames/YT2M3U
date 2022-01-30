@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-24 News | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
+Kids | kids | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
 https://youtu.be/1R35uh5J4Yg
